@@ -1,0 +1,221 @@
+mkBoxPlotAvgDistDiffByTime_ttgVsTopo departure time 0700
+count    2437.000000
+mean       -0.986360
+std         0.556489
+min        -4.821793
+25%        -1.251003
+50%        -0.939955
+75%        -0.682882
+max         1.412944
+Name: d_avgDist_ndfrV_u30, dtype: float64
+count    2437.000000
+mean       -0.801264
+std         1.017982
+min        -5.065015
+25%        -1.463497
+50%        -0.945738
+75%        -0.246612
+max         5.255113
+Name: d_avgDist_ndfrV_3060, dtype: float64
+count    2436.000000
+mean       -0.944023
+std         1.855906
+min        -6.751722
+25%        -2.011042
+50%        -1.284986
+75%        -0.270757
+max        10.868275
+Name: d_avgDist_ndfrV_6090, dtype: float64
+count    2435.000000
+mean       -0.435823
+std         2.966432
+min       -11.500642
+25%        -2.567134
+50%        -0.165470
+75%         1.321677
+max        15.100068
+Name: d_avgDist_ndfrV_o90, dtype: float64
+count    2433.000000
+mean       -1.072518
+std         0.590443
+min        -4.970151
+25%        -1.347886
+50%        -1.021453
+75%        -0.716118
+max         1.626705
+Name: d_avgDist_ndtoV_u30, dtype: float64
+count    2434.000000
+mean       -0.811798
+std         1.073697
+min        -7.708477
+25%        -1.472717
+50%        -0.886684
+75%        -0.234459
+max         5.177598
+Name: d_avgDist_ndtoV_3060, dtype: float64
+count    2435.000000
+mean       -0.640671
+std         1.763998
+min        -9.429406
+25%        -1.675256
+50%        -0.915644
+75%         0.012960
+max        10.823753
+Name: d_avgDist_ndtoV_6090, dtype: float64
+count    2435.000000
+mean        0.072466
+std         2.641072
+min       -18.506256
+25%        -1.792926
+50%         0.200385
+75%         1.820407
+max        14.240619
+Name: d_avgDist_ndtoV_o90, dtype: float64
+
+mkBoxPlotAvgDistDiffByTime_ttgVsTopo departure time 1215
+count    2437.000000
+mean       -1.048319
+std         0.550787
+min        -4.702161
+25%        -1.304940
+50%        -1.006248
+75%        -0.748489
+max         1.680380
+Name: d_avgDist_ndfrV_u30, dtype: float64
+count    2437.000000
+mean       -1.032644
+std         1.045996
+min        -4.621959
+25%        -1.728205
+50%        -1.185979
+75%        -0.415115
+max         4.947606
+Name: d_avgDist_ndfrV_3060, dtype: float64
+count    2437.000000
+mean       -1.372340
+std         1.895210
+min        -6.036087
+25%        -2.537690
+50%        -1.716040
+75%        -0.629757
+max        10.957632
+Name: d_avgDist_ndfrV_6090, dtype: float64
+count    2437.000000
+mean       -1.228031
+std         2.736577
+min        -8.609338
+25%        -3.101823
+50%        -1.111036
+75%         0.299800
+max        15.822336
+Name: d_avgDist_ndfrV_o90, dtype: float64
+count    2434.000000
+mean       -1.148919
+std         0.580124
+min        -4.917263
+25%        -1.422376
+50%        -1.097825
+75%        -0.802834
+max         1.685596
+Name: d_avgDist_ndtoV_u30, dtype: float64
+count    2435.000000
+mean       -1.097376
+std         1.084768
+min        -6.488269
+25%        -1.802934
+50%        -1.145036
+75%        -0.482775
+max         5.502650
+Name: d_avgDist_ndtoV_3060, dtype: float64
+count    2435.000000
+mean       -1.142087
+std         1.811143
+min       -11.194898
+25%        -2.250167
+50%        -1.353939
+75%        -0.407678
+max         9.610796
+Name: d_avgDist_ndtoV_6090, dtype: float64
+count    2435.000000
+mean       -0.809060
+std         2.355389
+min       -20.479648
+25%        -2.354346
+50%        -0.775365
+75%         0.424186
+max        13.333510
+Name: d_avgDist_ndtoV_o90, dtype: float64
+
+mkBoxPlotAvgDistDiffByTime_ttgVsTopo departure time 1720
+count    2436.000000
+mean       -0.977759
+std         0.557585
+min        -4.589795
+25%        -1.242366
+50%        -0.927470
+75%        -0.666672
+max         1.332982
+Name: d_avgDist_ndfrV_u30, dtype: float64
+count    2436.000000
+mean       -0.833868
+std         1.024605
+min        -4.920510
+25%        -1.507209
+50%        -1.005301
+75%        -0.253119
+max         5.379221
+Name: d_avgDist_ndfrV_3060, dtype: float64
+count    2436.000000
+mean       -1.126624
+std         1.839527
+min        -6.777820
+25%        -2.285055
+50%        -1.436759
+75%        -0.497225
+max        10.233874
+Name: d_avgDist_ndfrV_6090, dtype: float64
+count    2436.000000
+mean       -3.560703
+std         2.395951
+min        -9.851221
+25%        -5.277749
+50%        -3.752507
+75%        -2.130162
+max        10.298257
+Name: d_avgDist_ndfrV_o90, dtype: float64
+count    2434.000000
+mean       -1.064734
+std         0.571953
+min        -5.023422
+25%        -1.341936
+50%        -1.014965
+75%        -0.718771
+max         1.205982
+Name: d_avgDist_ndtoV_u30, dtype: float64
+count    2435.000000
+mean       -0.877749
+std         1.056822
+min        -6.785922
+25%        -1.567385
+50%        -0.969528
+75%        -0.273892
+max         4.606310
+Name: d_avgDist_ndtoV_3060, dtype: float64
+count    2435.000000
+mean       -0.795721
+std         1.780698
+min        -9.858937
+25%        -1.879419
+50%        -1.030058
+75%        -0.091560
+max         9.739173
+Name: d_avgDist_ndtoV_6090, dtype: float64
+count    2425.000000
+mean       -0.973842
+std         2.833641
+min       -13.668138
+25%        -2.354495
+50%        -0.536818
+75%         0.670039
+max        11.213981
+Name: d_avgDist_ndtoV_o90, dtype: float64
